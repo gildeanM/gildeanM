@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?gildeam=iuricode&color=006bed)
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQFIRjS2yW7NMA/profile-displaybackgroundimage-shrink_350_1400/B4DZcwxpzrH4AY-/0/1748870014019?e=1761782400&v=beta&t=tPUXGYp8SXBqrAcTap47tCCNpvU3K_jLXQpiAk1xeWw" alt="Software Developer">
-</div>
+</div> -->
 
 # {GildeanMorais -> SoftwareDeveloper()}
 
